@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NgzAbQcfTZE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Natália Fernandes\\source\\repos\\caca_palavras\\caca_palavras.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natália Fernandes\\.nuget\\packages\\documentformat.openxml\\3.1.0\\documentformat.openxml.3.1.0.nupkg.sha512",
+    "C:\\Users\\Natália Fernandes\\.nuget\\packages\\documentformat.openxml.framework\\3.1.0\\documentformat.openxml.framework.3.1.0.nupkg.sha512",
+    "C:\\Users\\Natália Fernandes\\.nuget\\packages\\system.io.packaging\\8.0.0\\system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
